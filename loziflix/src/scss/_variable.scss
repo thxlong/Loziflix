@@ -1,0 +1,41 @@
+//---------- Color ----------
+$color-red : #DB202C;
+$color-yellow: #FFA800;
+$color-background: #000F26;
+$color-white-inactive : hsla(0, 0%, 100%, 0.36);
+$color-border: rgba(255, 255, 255, 0.5);
+$color-text-grey : #9B9B9B;
+$color-green: #0DB000;
+$color-card-background: hsla(0, 100%, 81%, 0.1);
+$color-card-stroke: #4B4B4B;
+$color-input-background: rgba(210, 201, 255, 0.04);
+$color-text-disabled : rgba(255, 255, 255, 0.5);
+
+//---------- Hover color ----------
+
+
+
+//---------- Margin ----------
+$mg-02: 2px;
+$mg-12: 12px;
+$mg-28: 28px;
+$mg-40: 40px;
+$mg-20: 20px;
+
+
+//---------- Padding ----------
+$pd-12: 12px;
+$pd-20: 20px;
+
+
+//---------- Font-size ----------
+$fs-14: 14px;
+$fs-15: 15px; // Input text & Label
+$fs-16: 16px; // Default 
+$fs-18: 18px; // Default button
+$fs-32: 32px; // Title
+
+
+//---------- Font-weight ----------
+$fw-bold: bold;
+$fw-normal: normal;

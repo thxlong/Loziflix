@@ -1,0 +1,29 @@
+Thư viện install dự án
+
+Npm i redux
+Npm i react-redux
+Npm i sass-loader
+Npm i node-sass 
+npm i axios
+npm i antd 
+npm i react-router-dom
+npm i redux-thunk 
+
+
+Folder : tài nguyên : 
+- assets
+- redux :
+    + reducers
+    + actions 
+    + const 
+
+- pages : chứa component dạng trang
+- component : chứa component header // footer 
+- util : biến hoặc hằng số sẽ chứa trong đây
+
+
+-> sau đó cấu hình redux : tại file configStore.js
+
+-> qua index.js định nghĩa
+
+-> vào App.js : import {BrowserRouter, Route} from 'react-router-dom'
