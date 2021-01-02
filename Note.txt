@@ -27,3 +27,7 @@ Folder : tài nguyên :
 -> qua index.js định nghĩa
 
 -> vào App.js : import {BrowserRouter, Route} from 'react-router-dom'
+
+
+
+Test. LOZI-23
