@@ -1,4 +1,4 @@
-Thư viện install dự án
+Thư viện install dự án:
 
 Npm i redux
 Npm i react-redux
@@ -27,9 +27,3 @@ Folder : tài nguyên :
 -> qua index.js định nghĩa
 
 -> vào App.js : import {BrowserRouter, Route} from 'react-router-dom'
-
-
-
-Test. LOZI-23
-
-Done: LZF-3
