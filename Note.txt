@@ -31,3 +31,5 @@ Folder : tài nguyên :
 
 
 Test. LOZI-23
+
+Done: LZF-3
