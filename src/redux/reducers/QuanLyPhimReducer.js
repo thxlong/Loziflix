@@ -12,5 +12,5 @@ export const QuanLyPhimReducer = (state = stateDefault, ation) => {
 
     }
 
-    return {...state}
+    return {...state};
 }
